@@ -2,7 +2,7 @@
 #include <vector>
  using namespace std;
 
-//lembrando que este código esta em sendo desenvolvido ainda tem tem coisa que estão erradas mas da pra usar.
+//lembrando que este código está sendo desenvolvido ainda tem coisa que estão erradas mas está para uso.
 
   void presenca(int presente, int resposta){
        do {
@@ -14,7 +14,7 @@
        
   };
 
- /// talvez tenha um struct pra colocar os loops pra poder fazer confirmação
+ /// talvez tenha um struct pra colocar os loops pra poder fazer confirmação, isso otimizaria um pouco o código.
 
   
 
